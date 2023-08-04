@@ -1,6 +1,6 @@
 <?php
 
-namespace Casperlaitw\LaravelAdmobSsv;
+namespace junthink\LumenAdmobSsv;
 
 use Illuminate\Http\Request;
 

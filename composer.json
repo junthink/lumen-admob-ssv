@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Casperlaitw\\LaravelAdmobSsv\\": "src"
+            "junthink\\LumenAdmobSsv\\": "src"
         }
     }
 }

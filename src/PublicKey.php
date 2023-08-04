@@ -1,6 +1,6 @@
 <?php
 
-namespace Casperlaitw\LaravelAdmobSsv;
+namespace junthink\LumenAdmobSsv;
 
 use Eastwest\Json\Json;
 use Exception;
