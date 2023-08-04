@@ -3,14 +3,14 @@ The library help you to verify Admob callback in server.
 
 ## Install
 ```
-composer require casperlaitw/laravel-admob-ssv
+composer require junthink/lumen-admob-ssv
 ```
 
 
 ## How to use
 
 ```php
-use Casperlaitw\LaravelAdmobSsv\AdMob;
+use junthink\LaravelAdmobSsv\AdMob;
 use Illuminate\Http\Request;
 
 public function callback(Request $request) {

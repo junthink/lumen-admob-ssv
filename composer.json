@@ -1,5 +1,5 @@
 {
-    "name": "casperlaitw/laravel-admob-ssv",
+    "name": "junthink/lumen-admob-ssv",
     "description": "Google Admob server-side verification php library",
     "type": "library",
     "license": "MIT",
@@ -12,11 +12,11 @@
         "laravel",
         "ad"
     ],
-    "homepage": "https://github.com/CasperLaiTW/laravel-admob-ssv",
+    "homepage": "https://github.com/junthink/lumen-admob-ssv",
     "authors": [
         {
-            "name": "Casper Lai",
-            "email": "casper.lai@sleepingdesign.com"
+            "name": "junthink",
+            "email": "junthink@gamail.com"
         }
     ],
     "require": {

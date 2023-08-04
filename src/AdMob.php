@@ -38,11 +38,6 @@ class AdMob
      */
     public function validate()
     {
-        $this->request->validate([
-            'key_id' => 'required',
-            'signature' => 'required',
-        ]);
-
         $publicKey = PublicKey::createPublicKeyFromRequest($this->request);
         $signature = Signature::createFromRequest($this->request);
 
